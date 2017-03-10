@@ -1,0 +1,1 @@
+# javascript-regular-boostrap-table-nodejs
